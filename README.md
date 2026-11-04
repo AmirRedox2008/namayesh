@@ -1,8 +1,6 @@
 # namayesh
 
-A mini movie & series streaming platform API — plain Node.js + Express + SQLite. No TypeScript, no Docker, no ORM, no external database to install.
-
-Not another todo app: it has real subscription gating, watch progress with resume, signed expiring video links and Persian-aware search.
+A mini movie & series streaming platform API — plain Node.js + Express + SQLite. No TypeScript.
 
 ## Features
 
