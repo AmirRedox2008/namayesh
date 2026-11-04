@@ -1,6 +1,6 @@
 # namayesh
 
-A mini movie & series streaming platform API — plain Node.js + Express + SQLite. No TypeScript.
+A mini movie & series streaming platform API — plain Node.js + Express + SQLite.
 
 ## Features
 
