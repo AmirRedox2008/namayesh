@@ -1,0 +1,35 @@
+{
+  "name": "namayesh",
+  "version": "1.0.0",
+  "description": "Mini movie & series streaming platform API with VIP plans, watch progress and signed video links",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "node --watch src/index.js",
+    "start": "node src/index.js",
+    "test": "vitest run"
+  },
+  "keywords": [
+    "streaming",
+    "api",
+    "express",
+    "sqlite"
+  ],
+  "author": "Amir Mohammad Moraghi",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "better-sqlite3": "^12.4.1",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2"
+  },
+  "devDependencies": {
+    "supertest": "^7.1.4",
+    "vitest": "^3.2.4"
+  },
+  "allowScripts": {
+    "better-sqlite3@12.11.1": true,
+    "esbuild@0.28.2": true
+  }
+}
